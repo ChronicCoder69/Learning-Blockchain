@@ -11,3 +11,7 @@ There are basically three security measures in Blockchain:
 <li>The Hash values</li>
 <li>The Proof Of Work </li>
 <li>The Endorsement </li>
+### The Hash Values ###
+Each block in a Blockchain has a very specific and unique 'Hash' data associated with it. When a new block is added to the BlockChain, It gets its own 'Hash' data but it also stores and corresponds to its previous block's 'Hash' and so on. This way even if someone tampers with even one block in any manner, the Hash data of all the corresponding next blocks and The whole blockchain gets disrupted, otherwise gets changed.
+### The Proof of Work ###
+Sometimes, the malicious agents get past the Hash value security of the BlockChain, This is because modern day computers are very efficient and powerful. Then The Proof Of work comes into play
