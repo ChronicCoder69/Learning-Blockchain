@@ -11,7 +11,17 @@ There are basically three security measures in Blockchain:
 <li>The Hash values</li>
 <li>The Proof Of Work </li>
 <li>The Endorsement </li>
-### The Hash Values ###
+
+#### The Hash Values ####
 Each block in a Blockchain has a very specific and unique 'Hash' data associated with it. When a new block is added to the BlockChain, It gets its own 'Hash' data but it also stores and corresponds to its previous block's 'Hash' and so on. This way even if someone tampers with even one block in any manner, the Hash data of all the corresponding next blocks and The whole blockchain gets disrupted, otherwise gets changed.
-### The Proof of Work ###
-Sometimes, the malicious agents get past the Hash value security of the BlockChain, This is because modern day computers are very efficient and powerful. Then The Proof Of work comes into play
+
+#### The Proof of Work ####
+
+Sometimes, the malicious agents get past the Hash value security of the BlockChain, This is because modern day computers are very efficient and powerful. Then 'The Proof Of Work' comes into play, it is more like an evidence regarding the changes that someone has created that has to be submitted as a PoW to the Endorsing agents.
+
+#### The Endorsement ####
+
+Finally once the changes have been committed, and the Proof Of Work has been generated, a group of owning bodies/individuals called "Endorsers" take up on a vote to decide whenther or not to grant acceptance to the changes, normally a majority vote is needed for a change to be accepted.
+
+# You will be required to install the "requirements.txt" file to code/edit/run the BlockChain codes #
+
