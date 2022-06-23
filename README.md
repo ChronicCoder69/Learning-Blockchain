@@ -35,5 +35,6 @@ https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
 Once installed, open your command prompt and enter the following commands:
 
 pip install -r requirements.txt
+
 This may take several minutes to install, once done open the code in the VS Code Editor and continue with the code.
 
