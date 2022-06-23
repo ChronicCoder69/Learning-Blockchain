@@ -32,7 +32,7 @@ https://code.visualstudio.com/Download
 
 https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
 
-Once installed, open your command prompt and enter the following commands:
+Once installed, open your command prompt and enter the following command:
 
 pip install -r requirements.txt
 
